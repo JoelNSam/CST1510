@@ -1,0 +1,5 @@
+Creatin,78,200
+Protein,134,100
+Glucose,120,100
+Vitamin D,45,100
+Iron,110,100
